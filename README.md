@@ -1,3 +1,5 @@
+
+
 # AISA - Decision Intelligence Layer
 
 A Decision Intelligence Layer for the agentic economy - enabling simulation of funding, coordination, and ownership systems before they are deployed.
@@ -115,13 +117,24 @@ Explore:
 
 ---
 
-## Current Progress
+## Current Progress / Evidence of Execution
 
-- **AICitySim** — multi-agent simulation engine (in development)  
-- **Pilot Intake Engine (PIE)** — structured intake for decision scenarios  
-- **Pitch Arcade** — early-stage signal extraction and evaluation  
+- **AICitySim** — multi-agent simulation engine (in development - Hamlet-1 initial layer)  
+- **Pilot Intake Engine (PIE)** — active development of structured intake for decision scenarios  
+- **Pitch Arcade** — live system for early-stage signal extraction and evaluation  
 
-These components form the early layers of a broader Decision Intelligence system.
+These components form the early but functional layers of a broader Decision Intelligence system.
+
+---
+## Why Now
+
+- Hybrid human–agent teams are becoming real, not theoretical  
+- Products can be built in days, but coordination and funding models lag behind  
+- Existing structures (equity, hierarchy, institutional trust) do not adapt well to fluid systems  
+
+This creates a gap between what can be built and how it is funded, coordinated, and trusted.
+
+A Decision Intelligence Layer helps bridge that gap.
 
 ---
 
