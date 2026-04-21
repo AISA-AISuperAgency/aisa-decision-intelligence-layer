@@ -1,12 +1,13 @@
+# AISA's Decision Intelligence Layer
 # Reputation System Simulation
 
 ## Scenario
 
-In fluid, project-based environments, contributors may work across many short-lived projects without employers, managers, or conventional institutional credentials.
+In fluid, project-based environments, contributors may work across many short-lived projects without employers, managers or conventional institutional credentials.
 
 This raises a fundamental question:
 
-How should trust and reputation be established when work is distributed across humans, agents, and temporary collaborations?
+How should trust and reputation be established when work is distributed across humans, agents & temporary collaborations?
 
 ---
 
@@ -16,11 +17,11 @@ Traditional reputation systems depend on institutions.
 
 Examples include:
 
-- employer history
-- formal titles
-- references
-- platform reputation
-- organisational affiliation
+- Employer history
+- Formal titles
+- References
+- Platform reputation
+- Organisational affiliation
 
 In hybrid human–agent systems, these signals become weaker or incomplete.
 
@@ -32,21 +33,21 @@ A contributor may do excellent work across multiple small projects without any f
 
 What kind of reputation system produces the strongest balance of:
 
-- credibility
-- fairness
-- portability across projects
-- resistance to manipulation
-- usefulness in decision-making
+- Credibility
+- Fairness
+- Portability across projects
+- Resistance to manipulation
+- Usefulness in decision-making
 
 ---
 
 ## Example Inputs
 
 ### Contributors
-- human builders with varying delivery history
-- new contributors with no track record
-- agents with measurable but uneven output quality
-- funders or coordinators relying on trust signals
+- Human builders with varying delivery history
+- New contributors with no track record
+- Agents with measurable but uneven output quality
+- Funders or coordinators relying on trust signals
 
 ### Reputation Models to Compare
 1. Simple project completion history
@@ -56,12 +57,12 @@ What kind of reputation system produces the strongest balance of:
 5. Composite trust score across multiple projects
 
 ### Simulation Variables
-- false signalling
-- contributor collusion
-- quality inconsistency
-- incomplete verification
-- strong contributors leaving early
-- recycled or overstated agent outputs
+- False signalling
+- Contributor collusion
+- Quality inconsistency
+- Incomplete verification
+- Strong contributors leaving early
+- Recycled or overstated agent outputs
 
 ---
 
@@ -71,11 +72,11 @@ The simulation explores how trust signals evolve over time.
 
 This may include:
 
-- how reputation compounds
-- how quickly false positives emerge
-- how easily the system can be gamed
-- whether new contributors can enter fairly
-- whether the system over-rewards visibility rather than substance
+- How reputation compounds
+- How quickly false positives emerge
+- How easily the system can be gamed
+- Whether new contributors can enter fairly
+- Whether the system over-rewards visibility rather than substance
 
 ---
 
@@ -83,11 +84,11 @@ This may include:
 
 Outputs may include:
 
-- which reputation model best predicts reliable future contribution
-- where manipulation is most likely
-- which systems unfairly entrench incumbents
-- how reputation portability affects collaboration quality
-- whether agent contribution histories can become credible credentials
+- Which reputation model best predicts reliable future contribution
+- Where manipulation is most likely
+- Which systems unfairly entrench incumbents
+- How reputation portability affects collaboration quality
+- Whether agent contribution histories can become credible credentials
 
 ---
 
@@ -104,8 +105,8 @@ Before deploying a trust or reputation layer, simulation can help answer:
 
 ## Relevance to Decision Intelligence
 
-Trust systems shape who gets funded, who gets invited, who gets believed, and who gets ignored.
+Trust systems shape who gets funded, who gets invited, who gets believed, & who gets ignored.
 
 A Decision Intelligence Layer helps test these systems before they become embedded into coordination and capital flows.
 
-This is especially important in environments where institutions are weak, teams are fluid, and work is increasingly shared between humans and agents.
+This is especially important in environments where institutions are weak, teams are fluid, & work is increasingly shared between humans and agents.
