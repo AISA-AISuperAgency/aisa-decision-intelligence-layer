@@ -1,4 +1,4 @@
-
+![AISA Decision Intelligence Layer](images/aisa-skyline.png)
 
 # AISA - Decision Intelligence Layer
 
