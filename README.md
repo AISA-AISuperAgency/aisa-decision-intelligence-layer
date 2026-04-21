@@ -71,7 +71,9 @@ Run simulations across synthetic populations (e.g. Hamlet-1: 100 agents), modell
 Generate structured insights:
 - Likely outcomes across scenarios  
 - Key risks and failure modes  
-- Comparative analysis of different models  
+- Comparative analysis of different models
+
+Our focus is not on general simulation, but specifically on decision scenarios around funding, coordination, and ownership — where uncertainty is highest and consequences are hardest to reverse.
 
 ---
 
@@ -87,6 +89,8 @@ A Decision Intelligence Layer provides:
 - a way to **simulate coordination systems before teams form around them**  
 - a way to **explore ownership and incentive structures under real conditions**  
 - a way to **identify failure modes early**  
+
+This layer can be used to simulate and test Conviction Market mechanisms before they are deployed into real funding and coordination environments.
 
 Rather than replacing these systems, this layer enables them to be designed more safely and effectively.
 
@@ -142,6 +146,8 @@ Initial development is focused on real decision scenarios, including funding mod
 
 A working prototype of the intake → simulation → output flow is currently being assembled and will be demonstrated in upcoming pilot scenarios.
 
+Initial real-world decision scenarios are already being structured and prepared for simulation through PIE, with early outputs focused on funding and coordination models.
+
 ---
 
 ## Prototype Status
@@ -189,10 +195,10 @@ A working prototype and interface previews will be added as development progress
 
 We are interested in working with:
 
-- builders exploring new funding or coordination models  
-- teams designing token or non-equity systems  
-- researchers working on agent-based systems  
-- capital providers interested in simulation-informed decision making  
+- Builders exploring new funding or coordination models  
+- Teams designing token or non-equity systems  
+- Researchers working on agent-based systems  
+- Capital providers interested in simulation-informed decision making  
 
 ---
 
