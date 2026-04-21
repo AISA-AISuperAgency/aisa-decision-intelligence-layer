@@ -39,10 +39,10 @@ A Decision Intelligence Layer helps bridge that gap.
 
 There is currently no reliable way to simulate:
 
-- how a funding model behaves across changing contributors  
-- how coordination systems evolve under shifting incentives  
-- how reputation and trust propagate across projects  
-- how agent-driven systems consume resources and make decisions  
+- **How a funding model behaves across changing contributors**
+- **How coordination systems evolve under shifting incentives**  
+- **How reputation and trust propagate across projects**  
+- **How agent-driven systems consume resources and make decisions**  
 
 Most systems are still deployed first — and understood later.
 
@@ -60,16 +60,16 @@ Capture real-world questions such as:
 
 ### 2. Multi-Agent Simulation (AICitySim)  
 Run simulations across synthetic populations (e.g. Hamlet-1: 100 agents), modelling:
-- behaviour  
-- incentives  
-- interactions  
-- outcomes  
+- Behaviour  
+- Incentives  
+- Interactions  
+- Outcomes  
 
 ### 3. Decision-Grade Outputs  
 Generate structured insights:
-- likely outcomes across scenarios  
-- key risks and failure modes  
-- comparative analysis of different models  
+- Likely outcomes across scenarios  
+- Key risks and failure modes  
+- Comparative analysis of different models  
 
 ---
 
@@ -133,10 +133,12 @@ Explore:
 ## Evidence of Execution
 
 - **Pitch Arcade** — live system for early-stage signal extraction and evaluation  
-- **Pilot Intake Engine (PIE)** — structured intake layer in active development  
-- **AICitySim** — multi-agent simulation framework in development  
+- **Pilot Intake Engine (PIE)** — structured intake layer currently being implemented  
+- **AICitySim (Hamlet-1)** — first simulation layer in development (100-agent model)  
 
-These are early but functional steps toward a broader Decision Intelligence system.
+Initial development is focused on real decision scenarios, including funding models, coordination systems, and reputation dynamics.
+
+A working prototype of the intake → simulation → output flow is currently being assembled and will be demonstrated in upcoming pilot scenarios.
 
 ---
 
@@ -199,7 +201,7 @@ We are interested in working with:
 
 ---
 
-We believe decision intelligence becomes increasingly important as systems become more fluid, agent-driven, and difficult to reason about through static models alone.
+We believe decision intelligence becomes increasingly important as systems become more fluid, agent-driven, and difficult to reason about through static models alone. This solves a missing primitive in the design of agentic systems — not as a product category, but as enabling infrastructure.
 
 ---
 
