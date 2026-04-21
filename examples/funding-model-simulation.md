@@ -1,3 +1,4 @@
+# AISA's Decision Intelligence Layer
 # Funding Model Simulation
 
 ## Scenario
@@ -6,12 +7,12 @@ A solo builder or small hybrid team wants to develop a useful product without fo
 
 Possible funding models include:
 
-- milestone-based grants
-- revenue share
-- token-based allocation
-- contributor pool with dynamic rewards
+- Milestone-based grants
+- Revenue share
+- Token-based allocation
+- Contributor pool with dynamic rewards
 
-The question is not only which model appears attractive at the start, but which model remains stable as contributors, incentives, and outputs change over time.
+The question is not only which model appears attractive at the start, but which model remains stable as contributors, incentives & outputs change over time.
 
 ---
 
@@ -21,10 +22,10 @@ Many emerging projects now begin as fluid collaborations between humans and AI a
 
 In these environments:
 
-- contributors may join and leave rapidly
-- work may be unevenly distributed
-- value may be created before legal structure exists
-- capital providers may want exposure without a ten-year equity commitment
+- Contributors may join and leave rapidly
+- Work may be unevenly distributed
+- Value may be created before legal structure exists
+- Capital providers may want exposure without a ten-year equity commitment
 
 Traditional startup financing often does not match these realities.
 
@@ -34,11 +35,11 @@ Traditional startup financing often does not match these realities.
 
 Which funding structure produces the strongest balance of:
 
-- contributor motivation
-- perceived fairness
-- delivery reliability
-- cost control
-- long-term sustainability
+- Contributor motivation
+- Perceived fairness
+- Delivery reliability
+- Cost control
+- Long-term sustainability
 
 ---
 
@@ -59,12 +60,12 @@ A small software tool built over 8–12 weeks by:
 5. Hybrid model: small upfront support + revenue participation
 
 ### Simulation Variables
-- contributor arrival and departure
-- uneven contribution quality
-- agent operating costs
-- delayed commercial traction
-- pivot in product direction
-- disagreement around value created
+- Contributor arrival and departure
+- Uneven contribution quality
+- Agent operating costs
+- Delayed commercial traction
+- Pivot in product direction
+- Disagreement around value created
 
 ---
 
@@ -74,12 +75,12 @@ The simulation explores how each funding model behaves under changing conditions
 
 This may include:
 
-- short-term contributor engagement
-- dropout risk
-- pressure to optimise for fast payouts
-- trust between capital provider and builders
-- disputes around fairness
-- ability to continue after an early pivot
+- Short-term contributor engagement
+- Dropout risk
+- Pressure to optimise for fast payouts
+- Trust between capital provider and builders
+- Disputes around fairness
+- Ability to continue after an early pivot
 
 ---
 
@@ -87,12 +88,12 @@ This may include:
 
 Outputs may include:
 
-- which funding structures produce the strongest completion rates
-- where incentives become distorted
-- where contributors feel under-rewarded
-- where cost burn becomes unstable
-- how value distribution changes over time
-- likely points of conflict or disengagement
+- Which funding structures produce the strongest completion rates
+- Where incentives become distorted
+- Where contributors feel under-rewarded
+- Where cost burn becomes unstable
+- How value distribution changes over time
+- Likely points of conflict or disengagement
 
 ---
 
@@ -111,6 +112,4 @@ Before capital is committed, simulation can help answer:
 
 This is a practical example of why a Decision Intelligence Layer is needed.
 
-The question is not whether a funding model sounds elegant in theory.
-
-The real question is how it behaves across dynamic, agent-driven conditions before real capital and real contributors are exposed to it.
+It's irrelevant if a funding model sounds elegant in theory, but how it behaves across dynamic, agent-driven conditions before real capital and real contributors are exposed to it.
