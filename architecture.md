@@ -1,3 +1,4 @@
+# AISA's Decision Intelligence Layer
 # Architecture
 
 ## Overview
@@ -6,9 +7,9 @@ AISA is exploring a Decision Intelligence Layer for the agentic economy.
 
 This layer sits between:
 
-- systems of capital and ownership  
-- systems of coordination and contribution  
-- systems of execution involving humans and agents  
+- Systems of capital and ownership  
+- Systems of coordination and contribution  
+- Systems of execution involving humans and agents  
 
 Its purpose is to help test decisions before they are deployed into real environments.
 
@@ -17,26 +18,26 @@ Its purpose is to help test decisions before they are deployed into real environ
 ## High-Level Stack
 
 **Capital / Ownership Layer**
-- funding models  
-- reward systems  
-- value distribution  
+- Funding models  
+- Reward systems  
+- Value distribution  
 
 **Coordination Layer**
-- governance  
-- priorities  
-- contributor roles  
-- trust and verification  
+- Governance  
+- Priorities  
+- Contributor roles  
+- Trust and verification  
 
 **Decision Intelligence Layer**
-- intake of decision scenarios  
-- simulation of possible outcomes  
-- comparative analysis  
-- structured outputs  
+- Intake of decision scenarios  
+- Simulation of possible outcomes  
+- Comparative analysis  
+- Structured outputs  
 
 **Execution Layer**
-- human contributors  
+- Human contributors  
 - AI agents  
-- tools, workflows, infrastructure  
+- Tools, workflows, infrastructure  
 
 ---
 
@@ -46,11 +47,11 @@ Its purpose is to help test decisions before they are deployed into real environ
 A decision scenario is captured through the Pilot Intake Engine (PIE).
 
 This may include:
-- the core question  
-- available options  
-- key participants  
-- constraints  
-- intended outcomes  
+- The core question  
+- Available options  
+- Key participants  
+- Constraints  
+- Intended outcomes  
 
 ---
 
@@ -58,11 +59,11 @@ This may include:
 Inputs are converted into variables suitable for simulation.
 
 Examples:
-- incentive structures  
-- contributor profiles  
-- coordination rules  
-- timing assumptions  
-- cost limits  
+- Incentive structures  
+- Contributor profiles  
+- Coordination rules  
+- Timing assumptions  
+- Cost limits  
 
 ---
 
@@ -70,31 +71,31 @@ Examples:
 AICitySim runs structured scenario analysis, beginning with Hamlet-1.
 
 Hamlet-1 represents the first simulation layer:
-- small-scale  
-- fast to iterate  
-- useful for comparing early models  
+- Small-scale  
+- Fast to iterate  
+- Useful for comparing early models  
 
 ---
 
 ### 4. Output
 The system produces decision-grade outputs such as:
-- likely outcomes  
-- comparative trade-offs  
-- failure modes  
-- points of instability  
-- suggested next actions  
+- Likely outcomes  
+- Comparative trade-offs  
+- Failure modes  
+- Points of instability  
+- Suggested next actions  
 
 ---
 
 ## Why This Layer Matters
 
-Many systems in the emerging agentic economy are designed through theory, instinct, or ideology.
+Many systems in the emerging agentic economy are designed through theory, instinct or ideology.
 
 Examples include:
-- token structures  
-- contributor incentives  
-- trust systems  
-- coordination rules  
+- Token structures  
+- Contributor incentives  
+- Trust systems  
+- Coordination rules  
 
 These systems are then deployed into live environments where failure is expensive.
 
