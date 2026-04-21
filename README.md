@@ -11,6 +11,7 @@ A Decision Intelligence Layer for the agentic economy - enabling simulation of f
 We are entering a phase where products can be built in days, teams are fluid, and contributors may be human, agent, or both.
 
 However, the systems used to fund, coordinate, and assign ownership remain largely static:
+
 - Equity assumes long-term, fixed structures  
 - Coordination assumes hierarchy  
 - Trust assumes institutions  
@@ -18,7 +19,19 @@ However, the systems used to fund, coordinate, and assign ownership remain large
 
 These assumptions no longer hold.
 
-New models are emerging - token-based systems, fluid teams, agent-driven execution - but they are often designed and deployed without the ability to test how they behave under real conditions.
+New models are emerging — token-based systems, fluid teams, agent-driven execution — but they are often designed and deployed without the ability to test how they behave under real conditions.
+
+---
+
+## Why Now
+
+- Hybrid human–agent teams are becoming real, not theoretical  
+- Products can be built rapidly, but coordination and funding models lag behind  
+- Existing structures (equity, hierarchy, institutional trust) do not adapt well to fluid systems  
+
+This creates a growing gap between what can be built and how it is funded, coordinated, and trusted.
+
+A Decision Intelligence Layer helps bridge that gap.
 
 ---
 
@@ -26,10 +39,10 @@ New models are emerging - token-based systems, fluid teams, agent-driven executi
 
 There is currently no reliable way to simulate:
 
-- How a funding model behaves across different contributors  
-- How coordination systems evolve under changing incentives  
-- How reputation and trust propagate across projects  
-- How agent-driven systems consume resources and make decisions  
+- how a funding model behaves across changing contributors  
+- how coordination systems evolve under shifting incentives  
+- how reputation and trust propagate across projects  
+- how agent-driven systems consume resources and make decisions  
 
 Most systems are still deployed first — and understood later.
 
@@ -39,39 +52,39 @@ Most systems are still deployed first — and understood later.
 
 AISA is building a **Decision Intelligence Layer** that enables:
 
-1. **Structured Intake of Decision Scenarios**  
-   Capture real-world questions such as:
-   - “How should this project be funded?”  
-   - “How should contributors be rewarded?”  
-   - “How should coordination be structured?”  
+### 1. Structured Intake of Decision Scenarios  
+Capture real-world questions such as:
+- “How should this project be funded?”  
+- “How should contributors be rewarded?”  
+- “How should coordination be structured?”  
 
-2. **Multi-Agent Simulation (AICitySim)**  
-   Run simulations across synthetic populations (e.g. Hamlet-1: 100 agents), modelling:
-   - behaviour  
-   - incentives  
-   - interactions  
-   - outcomes  
+### 2. Multi-Agent Simulation (AICitySim)  
+Run simulations across synthetic populations (e.g. Hamlet-1: 100 agents), modelling:
+- behaviour  
+- incentives  
+- interactions  
+- outcomes  
 
-3. **Decision-Grade Outputs**  
-   Generate structured insights:
-   - likely outcomes across scenarios  
-   - key risks and failure modes  
-   - comparative analysis of different models  
+### 3. Decision-Grade Outputs  
+Generate structured insights:
+- likely outcomes across scenarios  
+- key risks and failure modes  
+- comparative analysis of different models  
 
 ---
 
 ## Relevance to Conviction Markets
 
-The problems outlined in Conviction Markets - funding without equity, coordination without companies, trust without institutions - all require new forms of mechanism design.
+The problems outlined in Conviction Markets — funding without equity, coordination without companies, trust without institutions — all require new forms of mechanism design.
 
 These mechanisms are difficult to design in theory, and risky to deploy without testing.
 
 A Decision Intelligence Layer provides:
 
-- A way to **test funding models before capital is deployed**  
-- A way to **simulate coordination systems before teams form around them**  
-- A way to **explore ownership and incentive structures under real conditions**  
-- A way to **identify failure modes early**  
+- a way to **test funding models before capital is deployed**  
+- a way to **simulate coordination systems before teams form around them**  
+- a way to **explore ownership and incentive structures under real conditions**  
+- a way to **identify failure modes early**  
 
 Rather than replacing these systems, this layer enables them to be designed more safely and effectively.
 
@@ -79,7 +92,7 @@ Rather than replacing these systems, this layer enables them to be designed more
 
 ## Example Simulation Scenarios
 
-### 1. Funding Without Equity
+### Funding Without Equity
 Simulate different funding structures:
 - token-based allocation  
 - revenue share  
@@ -92,7 +105,7 @@ Compare:
 
 ---
 
-### 2. Coordination Without Hierarchy
+### Coordination Without Hierarchy
 Simulate a fluid team working on a shared problem:
 - no central leadership  
 - shifting contributors (human + agent)  
@@ -104,7 +117,7 @@ Observe:
 
 ---
 
-### 3. Reputation & Trust Systems
+### Reputation & Trust Systems
 Model how reputation evolves across multiple projects:
 - contributor history  
 - agent output quality  
@@ -117,24 +130,26 @@ Explore:
 
 ---
 
-## Current Progress / Evidence of Execution
+## Evidence of Execution
 
-- **AICitySim** — multi-agent simulation engine (in development - Hamlet-1 initial layer)  
-- **Pilot Intake Engine (PIE)** — active development of structured intake for decision scenarios  
 - **Pitch Arcade** — live system for early-stage signal extraction and evaluation  
+- **Pilot Intake Engine (PIE)** — structured intake layer in active development  
+- **AICitySim** — multi-agent simulation framework in development  
 
-These components form the early but functional layers of a broader Decision Intelligence system.
+These are early but functional steps toward a broader Decision Intelligence system.
 
 ---
-## Why Now
 
-- Hybrid human–agent teams are becoming real, not theoretical  
-- Products can be built in days, but coordination and funding models lag behind  
-- Existing structures (equity, hierarchy, institutional trust) do not adapt well to fluid systems  
+## Prototype Status
 
-This creates a gap between what can be built and how it is funded, coordinated, and trusted.
+The Pilot Intake Engine (PIE) and initial simulation layer (Hamlet-1) are currently in active development.
 
-A Decision Intelligence Layer helps bridge that gap.
+The current focus is on:
+- structuring decision inputs  
+- defining simulation variables  
+- generating usable outputs for early decision scenarios  
+
+A working prototype and interface previews will be added as development progresses.
 
 ---
 
@@ -158,6 +173,14 @@ A Decision Intelligence Layer helps bridge that gap.
 
 ---
 
+## Repository Guide
+
+- `/examples/` — sample simulation scenarios  
+- `/prototype/` — Pilot Intake Engine (PIE) overview  
+- `/architecture.md` — high-level system structure  
+
+---
+
 ## Collaboration
 
 We are interested in working with:
@@ -172,7 +195,11 @@ We are interested in working with:
 ## References
 
 - https://convictionmarkets.io  
-- https://aicitysim.city
+- https://aicitysim.city  
+
+---
+
+We believe decision intelligence becomes increasingly important as systems become more fluid, agent-driven, and difficult to reason about through static models alone.
 
 ---
 
