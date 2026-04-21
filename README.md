@@ -1,6 +1,6 @@
 ![AISA Decision Intelligence Layer](images/aisa-skyline.png)
 
-# AISA - Decision Intelligence Layer
+# AISA's Decision Intelligence Layer
 
 A Decision Intelligence Layer for the agentic economy - enabling simulation of funding, coordination, and ownership systems before they are deployed.
 
@@ -144,9 +144,7 @@ Explore:
 
 Initial development is focused on real decision scenarios, including funding models, coordination systems, and reputation dynamics.
 
-A working prototype of the intake → simulation → output flow is currently being assembled and will be demonstrated in upcoming pilot scenarios.
-
-Initial real-world decision scenarios are already being structured and prepared for simulation through PIE, with early outputs focused on funding and coordination models.
+A working intake → simulation → output flow is currently being assembled, with early decision scenarios already structured and prepared for simulation through PIE.
 
 ---
 
@@ -209,7 +207,7 @@ We are interested in working with:
 
 ---
 
-We believe decision intelligence becomes increasingly important as systems become more fluid, agent-driven, and difficult to reason about through static models alone. This solves a missing primitive in the design of agentic systems — not as a product category, but as enabling infrastructure.
+We believe decision intelligence becomes increasingly important as systems become more fluid, agent-driven, and difficult to reason about through static models alone. We see decision intelligence as a missing primitive in the design of agentic systems — not as a product category, but as enabling infrastructure.
 
 ---
 
