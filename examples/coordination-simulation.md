@@ -4,7 +4,7 @@
 
 A group of contributors wants to work on a shared problem without a conventional company structure, fixed hierarchy, or clear CEO.
 
-Some contributors are human. Some are AI agents. Some participate only briefly. The work is real, but the coordination model is fluid.
+Some contributors are human, others are AI agents, while some participate only briefly. The work is real, yet the coordination model is fluid.
 
 The key question is whether meaningful progress can emerge without fragmentation.
 
@@ -14,17 +14,17 @@ The key question is whether meaningful progress can emerge without fragmentation
 
 Many modern projects do not begin with:
 
-- a company
-- a formal org chart
-- fixed roles
-- long-term employment relationships
+- A company
+- A formal org chart
+- Fixed roles
+- Long-term employment relationships
 
-Instead, they begin with:
+Instead, they commence with:
 
-- a problem
-- a set of interested contributors
-- rapid experimentation
-- changing participation over time
+- A problem
+- A set of interested contributors
+- Rapid experimentation
+- Changing participation over time
 
 This creates a coordination problem that is not well served by traditional organisational assumptions.
 
@@ -34,10 +34,10 @@ This creates a coordination problem that is not well served by traditional organ
 
 How should work be coordinated so that:
 
-- priorities converge
-- contributors remain aligned
-- effort compounds rather than fragments
-- the system remains usable even without hierarchy
+- Priorities converge
+- Contributors remain aligned
+- Effort compounds rather than fragments
+- The system remains usable even without hierarchy
 
 ---
 
@@ -57,12 +57,12 @@ How should work be coordinated so that:
 5. Token-weighted or reputation-weighted decision process
 
 ### Simulation Variables
-- contributors joining and leaving
-- conflicting views on priorities
-- varying reliability of contributors
-- duplicated work
-- incomplete handoffs
-- disagreement over what counts as progress
+- Contributors joining and leaving
+- Conflicting views on priorities
+- Varying reliability of contributors
+- Duplicated work
+- Incomplete handoffs
+- Disagreement over what counts as progress
 
 ---
 
@@ -72,12 +72,12 @@ The simulation explores how different coordination structures behave under press
 
 This may include:
 
-- decision latency
-- frequency of stalled work
-- duplication of effort
-- unresolved disagreements
-- concentration of hidden authority
-- resilience when a key contributor leaves
+- Decision latency
+- Frequency of stalled work
+- Duplication of effort
+- Unresolved disagreements
+- Concentration of hidden authority
+- Resilience when a key contributor leaves
 
 ---
 
@@ -85,11 +85,11 @@ This may include:
 
 Outputs may include:
 
-- which coordination model leads to the highest completion rate
-- where fragmentation emerges
-- when informal systems become bottlenecks
-- whether agent-assisted prioritisation improves throughput
-- which models create clarity without recreating rigid hierarchy
+- Which coordination model leads to the highest completion rate
+- Where fragmentation emerges
+- When informal systems become bottlenecks
+- Whether agent-assisted prioritisation improves throughput
+- Which models create clarity without recreating rigid hierarchy
 
 ---
 
@@ -110,4 +110,4 @@ Coordination systems are often adopted based on ideology, habit, or intuition.
 
 A Decision Intelligence Layer makes it possible to test them more rigorously.
 
-This allows teams to compare coordination structures before committing real time, capital, and momentum to a model that may fail under actual conditions.
+This allows teams to compare coordination structures before committing real time, capital & momentum to a model that may fail under actual conditions.
