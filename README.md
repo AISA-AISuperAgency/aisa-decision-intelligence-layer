@@ -1,6 +1,6 @@
-# AISA — Decision Intelligence Layer
+# AISA - Decision Intelligence Layer
 
-A Decision Intelligence Layer for the agentic economy — enabling simulation of funding, coordination, and ownership systems before they are deployed.
+A Decision Intelligence Layer for the agentic economy - enabling simulation of funding, coordination, and ownership systems before they are deployed.
 
 ---
 
@@ -16,7 +16,7 @@ However, the systems used to fund, coordinate, and assign ownership remain large
 
 These assumptions no longer hold.
 
-New models are emerging — token-based systems, fluid teams, agent-driven execution — but they are often designed and deployed without the ability to test how they behave under real conditions.
+New models are emerging - token-based systems, fluid teams, agent-driven execution - but they are often designed and deployed without the ability to test how they behave under real conditions.
 
 ---
 
@@ -60,7 +60,7 @@ AISA is building a **Decision Intelligence Layer** that enables:
 
 ## Relevance to Conviction Markets
 
-The problems outlined in Conviction Markets — funding without equity, coordination without companies, trust without institutions — all require new forms of mechanism design.
+The problems outlined in Conviction Markets - funding without equity, coordination without companies, trust without institutions - all require new forms of mechanism design.
 
 These mechanisms are difficult to design in theory, and risky to deploy without testing.
 
