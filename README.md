@@ -6,6 +6,8 @@ A Decision Intelligence Layer for the agentic economy - enabling simulation of f
 
 This layer sits between capital, coordination, and execution — enabling decisions to be tested before they shape real systems.
 
+Update: The first pilot projects planning are in progress, and underway in May.
+
 ---
 
 ## Context
